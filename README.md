@@ -1,2 +1,6 @@
 # hello-world-tutorial
-Learning how to github
+
+What the heck is this tutorial sample text...
+
+Moon tacos?!? That's uh, certainly something....
+But at least you wouldn't struggle with fillings falling out..?
